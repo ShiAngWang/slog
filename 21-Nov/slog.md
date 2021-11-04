@@ -2,8 +2,9 @@
 * hello, go!
 * go 的包代码组织管理方式，emmm，要求同一目录下的所有文件同属于一个包，用的时候导入这个包即可，这种组织方式还是很值得学习的
 * 在 C++ 组织代码时可以借鉴
-![truth](OptimTruth.png)
+<br>![truth](OptimTruth.png) <br>
 * 快手正式 offer
+
 
 ****
 
